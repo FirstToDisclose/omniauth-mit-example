@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/FirstToDisclose/omniauth-mit.git
+  revision: f14a8486faa98133b9370e8a2c85607e3d7c1e08
+  specs:
+    omniauth-mit (0.0.0)
+      omniauth (~> 1.0)
+      omniauth-oauth2 (>= 1.1.1, < 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -199,6 +207,7 @@ DEPENDENCIES
   omniauth-facebook
   omniauth-github
   omniauth-linkedin
+  omniauth-mit!
   rails (= 4.2.0)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
